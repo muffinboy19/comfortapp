@@ -90,18 +90,23 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Topics Learned
+### Topics Learned
 
 During the development of this project, the following topics and skills were learned and applied:
 
+
 - **Integration of Flask and Express**: Learned how to integrate two different backend frameworks to handle different parts of an application.
+- **Gitignore**: we used this file to ignore all the objects we dont want to push into the github repo.
 - **WebSocket Communication**: Implemented real-time features using WebSocket for instant updates.
 - **RESTful API Development**: Created a RESTful API using Express to serve poll data.
+- **Object-Oriented Programming (Python)**: Modeled poll data using object-oriented principles with the `Poll` class, encapsulating properties and behaviors.
+- **Object-Oriented JavaScript**: Implemented object-oriented JavaScript with the `WebSocketClient` class to manage WebSocket connections.
 - **Frontend and Backend Interaction**: Ensured seamless interaction between frontend and backend components.
 - **File Structure Organization**: Organized a project structure that separates concerns and makes the project easy to navigate.
 - **Dependency Management**: Managed dependencies using npm for Node.js and pip for Python.
 - **Real-Time Data Handling**: Handled real-time data updates efficiently and displayed them dynamically on the frontend.
 - **Modular Code Writing**: Wrote modular and maintainable code adhering to clean code principles.
+
 
 ## Usage
 
